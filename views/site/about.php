@@ -164,6 +164,21 @@ $this->title = 'Biz haqimizda:';
             </div>
             <div class="testimonial__card">
                 <div class="img-box block-image mt-3">
+                <img src="./../../web/img/jamoa/boymatov.jpg" alt="Boymatov M" />
+                </div>
+                <h2 class="testimonial__author mt-5 mb-2">Boymatov<br>Mexrojiddin</h2>
+                <p class="testimonial__content my-2 mx-auto">
+                    <p class="facility my-4">
+                        Android developer,<br>Java-Kotlin Developer
+                    </p>
+                    <div class="block-footer mt-3 text-center">
+                        <a href="https://www.facebook.com/mexrojiddin.boymatov" class="m-1" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                        <a href="https://t.me/boymatov99" target="_blank" class="m-1"><i class="fab fa-telegram"></i></a>
+                    </div>
+                </p>
+            </div>
+            <div class="testimonial__card">
+                <div class="img-box block-image mt-3">
                 <img src="./../../web/img/jamoa/jurayev.jpg" alt="Jo'rayev T" />
                 </div>
                 <h2 class="testimonial__author mt-5 mb-2">Jo'rayev<br>To'xtasin</h2>
